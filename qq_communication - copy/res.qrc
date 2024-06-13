@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/Cherry.png</file>
+        <file>images/clear.png</file>
+        <file>images/Coin.png</file>
+        <file>images/color.png</file>
+        <file>images/dr.png</file>
+        <file>images/italic.png</file>
+        <file>images/jj.png</file>
+        <file>images/lswh.png</file>
+        <file>images/qmnn.png</file>
+        <file>images/qq.png</file>
+        <file>images/save.png</file>
+        <file>images/spqy.png</file>
+        <file>images/under.png</file>
+        <file>images/ymrl.png</file>
+        <file>images/yunjing.jpg</file>
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BackButtonSound.wav</file>
+        <file>res/BoardNode.png</file>
+        <file>res/Coin0001.png</file>
+        <file>res/Coin0002.png</file>
+        <file>res/Coin0003.png</file>
+        <file>res/Coin0004.png</file>
+        <file>res/Coin0005.png</file>
+        <file>res/Coin0006.png</file>
+        <file>res/Coin0007.png</file>
+        <file>res/Coin0008.png</file>
+        <file>res/ConFlipSound.wav</file>
+        <file>res/LevelCompletedDialogBg.png</file>
+        <file>res/LevelIcon.png</file>
+        <file>res/LevelWinSound.wav</file>
+        <file>res/MenuSceneBg.png</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/myDouDZ.wav</file>
+        <file>res/OtherSceneBg.png</file>
+        <file>res/PlayLevelSceneBg.png</file>
+        <file>res/TapButtonSound.wav</file>
+        <file>res/Title.png</file>
+    </qresource>
+</RCC>
